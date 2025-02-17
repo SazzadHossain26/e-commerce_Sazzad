@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('img.jpg');
+  background-size: cover;
+}
+
+footer {
+  background-color: #343a40;
+  color: white;
+}
+
+.card-img-top:hover{
+  transform: scale(1.1,1);
+}
+
+footer a {
+  color: #f8f9fa;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.card-img-top {
+  height: 400px;
+}
+
+
+
+
